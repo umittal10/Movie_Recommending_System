@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a movie recommendation system implemented in C++. It utilizes two main data files: `users.txt`, which contains user data and information about the movies they have watched, and `movies.txt`, which contains details about the movies, including actors, directors, ratings, and more.
+This repository contains a movie recommendation system implemented in C++. It is a project I chose to make for my CS32 (Data Structures and Algorithms) class at UCLA. It utilizes two main data files: `users.txt`, which contains user data and information about the movies they have watched, and `movies.txt`, which contains details about the movies, including actors, directors, ratings, and more.
 
 ## Getting Started
 
